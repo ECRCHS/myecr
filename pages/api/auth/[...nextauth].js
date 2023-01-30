@@ -19,7 +19,7 @@ export default NextAuth({
   // custom callback configurationt to allow for URLs on different sites
   callbacks: {
     async redirect({ url, baseUrl }) {
-      url="https://my.ecrchs.net/api/auth/callback/azure-ad/"
+      url="https://my.ecrchs.net/"
       return url
       // Allows relative callback URLs
       if (url.startsWith("/")) return new URL(url, baseUrl).toString()
