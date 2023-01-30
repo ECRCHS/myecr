@@ -3,6 +3,10 @@ import AzureADProvider from "next-auth/providers/azure-ad";
 
 // console.log("hello", process.env)
 export default NextAuth({
+
+  secret: process.env.NEXTAUTH_SECRET,
+  site: process.env.NEXTAUTH_URL,
+
   // Configure one or more authentication providers
   providers: [
     AzureADProvider({
@@ -11,8 +15,6 @@ export default NextAuth({
       tenantId: process.env.AZURE_AD_TENANT_ID,
     }),
   ],
-
-  secret: process.env.NEXTAUTH_SECRET,
 
   // custom callback configurationt to allow for URLs on different sites
   callbacks: {
