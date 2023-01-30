@@ -23,7 +23,10 @@ export default NextAuth({
       // Allows callback URLs on the same origin
       //else if (new URL(url).origin === baseUrl) return url
       //return url
-      return "https://my.ecrchs.net/api/auth/callback/azure-ad"
+      return (new Url("https://my.ecrchs.net/api/auth/callback/azure-ad"))
+    },
+    async signin({profile, account, metadata}) {
+      return (new Url("https://my.ecrchs.net/api/auth/callback/azure-ad"))
     }
   }
 
