@@ -17,14 +17,14 @@ export default NextAuth({
 
   // custom callback configurationt to allow for URLs on different sites
   callbacks: {
-    redirect: "https://my.ecrchs.net/api/auth/callback/azure-ad"
-    //async redirect({ url, baseUrl }) {
+    async redirect({ url, baseUrl }) {
       // Allows relative callback URLs
       //if (url.startsWith("/")) return `${baseUrl}${url}`
       // Allows callback URLs on the same origin
       //else if (new URL(url).origin === baseUrl) return url
       //return url
-    //}
+      return "https://my.ecrchs.net/api/auth/callback/azure-ad"
+    }
   }
 
 })
