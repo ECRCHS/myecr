@@ -4,6 +4,7 @@ const nextConfig = {
 }
 
 module.exports = {
+  reactStrictMode: true,
   env: {
     NEXTAUTH_SECRET: process.env.NEXTAUTH_SECRET,
     AZURE_AD_CLIENT_ID: process.env.AZURE_AD_CLIENT_ID,
