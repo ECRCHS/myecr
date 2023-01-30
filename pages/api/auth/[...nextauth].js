@@ -12,6 +12,8 @@ export default NextAuth({
     }),
   ],
 
+  secret: process.env.NEXTAUTH_SECRET,
+
   // custom callback configurationt to allow for URLs on different sites
   callbacks: {
     async redirect({ url, baseUrl }) {
