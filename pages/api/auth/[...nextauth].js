@@ -18,7 +18,6 @@ export default NextAuth({
   // custom callback configurationt to allow for URLs on different sites
   callbacks: {
     async redirect({ url, baseUrl }) {
-      baseUrl: process.env.NEXTAUTH_URL
       // Allows relative callback URLs
       if (url.startsWith("/")) return `${baseUrl}${url}`
       // Allows callback URLs on the same origin
