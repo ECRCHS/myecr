@@ -11,8 +11,6 @@ export default NextAuth({
       tenantId: process.env.AZURE_AD_TENANT_ID,
     }),
   ],
-  
-  secret: "ZrLqHdeaHyjScav26jTWiQu8D5Bi83hXvmK+XhIIhxI=",
 
   // custom callback configurationt to allow for URLs on different sites
   callbacks: {
