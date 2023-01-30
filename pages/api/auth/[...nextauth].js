@@ -13,7 +13,6 @@ export default NextAuth({
   ],
   
   secret: "ZrLqHdeaHyjScav26jTWiQu8D5Bi83hXvmK+XhIIhxI=",
-  site: https://my.ecrchs.net/,
 
   // custom callback configurationt to allow for URLs on different sites
   callbacks: {
