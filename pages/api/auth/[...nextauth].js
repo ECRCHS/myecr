@@ -13,6 +13,7 @@ export default NextAuth({
   ],
   
   secret: process.env.NEXTAUTH_SECRET,
+  site: process.env.NEXTAUTH_URL,
 
   // custom callback configurationt to allow for URLs on different sites
   callbacks: {
