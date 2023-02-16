@@ -516,12 +516,12 @@
             "roles": {
                 "TCH": {
                     "description": "You can also email techsupport@ecrchs.net to create a ticket",
-                    "url": "https://help.ecrchs.net",
+                    "url": "https://iq.ecrchs.net/helpdesk/ecr-tech-support-4",
                     "category": ["ECR"]
                 },
                 "STF": {
                     "description": "You can also email techsupport@ecrchs.net to create a ticket",
-                    "url": "https://help.ecrchs.net",
+                    "url": "https://iq.ecrchs.net/helpdesk/ecr-tech-support-4",
                     "category": ["ECR"]
                 }
             }
