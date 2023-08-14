@@ -1006,16 +1006,6 @@
                     "description": "Royal Pass Digital ID",
                     "url": "https://myecrchsid.360isuite.com/login",
                     "category": ["FEA", "ECR"]
-                },
-                "TCH": {
-                    "description": "Royal Pass Digital ID",
-                    "url": "https://myecrchsid.360isuite.com/login",
-                    "category": ["FEA, ECR"]
-                },
-                "STF": {
-                    "description": "Royal Pass Digital ID",
-                    "url": "https://myecrchsid.360isuite.com/login",
-                    "category": ["FEA, ECR"]
                 }
             }
         },
