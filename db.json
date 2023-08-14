@@ -999,7 +999,7 @@
         },
         {
             "title": "* Digital I.D.",
-            "icon": "./icon/undraw_medicine_b-1-ol.svg",
+            "icon": "./icon/Digital_ID_icon.png",
             "priority": true,
             "roles": {
                 "STU": {
