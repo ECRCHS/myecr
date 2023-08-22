@@ -803,7 +803,7 @@
             }
         },
         {
-            "title": "NEWA",
+            "title": "NWEA",
             "icon": "./icon/NWEA.webp",
             "priority": true,
             "roles": {
