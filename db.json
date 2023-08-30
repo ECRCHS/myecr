@@ -1239,7 +1239,18 @@
                     "category": ["OFF"]
                 }
             }
+        },
+        {
+            "title": "ECR Student Tracker",
+            "icon": "",
+            "priority": true,
+            "roles": {
+                "STF": {
+                    "description": "Office Check-In App",
+                    "url": "https://ecr-tracker.flutterflow.app/",
+                    "category": ["ECR"]
+                }
+            }
         }
-        
     ]
 }
