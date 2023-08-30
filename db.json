@@ -807,11 +807,6 @@
             "icon": "./icon/NWEA.webp",
             "priority": true,
             "roles": {
-                "STU": {
-                    "description": "",
-                    "url": "https://test.mapnwea.org",
-                    "category": ["INS"]
-                },
                 "TCH": {
                     "description": "",
                     "url": "https://teach.mapnwea.org",
