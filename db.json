@@ -1105,12 +1105,12 @@
                 "TCH": {
                     "description": "TeachPoint Evaluation",
                     "url": "https://tp1.goteachpoint.com/sso/login?district=ecrchs",
-                    "category": ["ECR"]
+                    "category": ["ECR", "FEA"]
                 },
                 "STF": {
                     "description": "TeachPoint Evaluation",
                     "url": "https://tp1.goteachpoint.com/sso/login?district=ecrchs",
-                    "category": ["ECR"]
+                    "category": ["ECR", "FEA"]
                 }
             }
         },
