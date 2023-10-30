@@ -214,7 +214,7 @@
         {
             "title": "Albert",
             "icon": "./icon/Albert.jpg",
-            "priority": true,
+            "priority": false,
             "roles": {
                 "STU": {
                     "description": "",
