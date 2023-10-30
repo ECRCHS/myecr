@@ -219,12 +219,12 @@
                 "STU": {
                     "description": "",
                     "url": "https://api.albert.io/auth/google?redirectUri=https://www.albert.io/social",
-                    "category": ["INS"]
+                    "category": 
                 },
                 "TCH": {
                     "description": "",
                     "url": "https://api.albert.io/auth/google?redirectUri=https://www.albert.io/social",
-                    "category": ["INS"]
+                    "category": 
                 }
             }
         },
