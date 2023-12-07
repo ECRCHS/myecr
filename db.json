@@ -373,18 +373,6 @@
             }
         },
         {
-            "title": "Friends of ECR PTO",
-            "icon": "",
-            "priority": true,
-            "roles": {
-                "PAR": {
-                    "description": "",
-                    "url": "https://www.friendsofecr.com/",
-                    "category": ["OFF"]
-                }
-            }
-        },
-        {
             "title": "ERP",
             "icon": "",
             "priority": true,
