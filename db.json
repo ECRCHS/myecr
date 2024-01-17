@@ -1239,6 +1239,24 @@
                     "category": ["ECR"]
                 }
             }
+        },
+        {
+            "title": "MyClass",
+            "icon": "OfficialSeal.png",
+            "priority": true,
+            "roles": {
+                "TCH": {
+                    "description": "MyClass",
+                    "url": "https://myclass.ecrchs.net",
+                    "category": ["FEA", "ECR"]
+                },
+                "STF": {
+                    "description": "MyClass",
+                    "url": "https://myclass.ecrchs.net",
+                    "category": ["FEA", "ECR"]
+                }
+            }
         }
+        
     ]
 }
