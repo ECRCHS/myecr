@@ -1242,7 +1242,7 @@
         },
         {
             "title": "MyClass",
-            "icon": "OfficialSeal.png",
+            "icon": "./icon/OfficialSeal.png",
             "priority": true,
             "roles": {
                 "TCH": {
