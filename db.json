@@ -1265,7 +1265,7 @@
                 "TCH": {
                     "description": "ECR_IQ_ERP",
                     "url": "https://iq.ecrchs.net",
-                    "category": 
+                    "category": ["ECR"]
                 },
                 "STF": {
                     "description": "ECR_IQ_ERP",
