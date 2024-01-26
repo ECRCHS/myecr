@@ -1264,12 +1264,12 @@
             "roles": {
                 "TCH": {
                     "description": "ECR_IQ_ERP",
-                    "url": "https://iq.ecrchs.net",
+                    "url": "https://iq.ecrchs.net/web",
                     "category": ["ECR"]
                 },
                 "STF": {
                     "description": "ECR_IQ_ERP",
-                    "url": "https://iq.ecrchs.net",
+                    "url": "https://iq.ecrchs.net/web",
                     "category": ["ECR"]
                 }
             }
