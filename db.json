@@ -1230,7 +1230,7 @@
         },
         {
             "title": "ECR Student Tracker",
-            "icon": "",
+            "icon": "./icon/ecr-tracker-logo.png",
             "priority": true,
             "roles": {
                 "STF": {
