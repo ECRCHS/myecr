@@ -1256,6 +1256,23 @@
                     "category": ["FEA", "ECR"]
                 }
             }
+        },
+        {
+            "title": "IQ ERP",
+            "icon": "./icon/ECR-ERP-Logo.png",
+            "priority": true,
+            "roles": {
+                "TCH": {
+                    "description": "ECR_IQ_ERP",
+                    "url": "https://iq.ecrchs.net",
+                    "category": 
+                },
+                "STF": {
+                    "description": "ECR_IQ_ERP",
+                    "url": "https://iq.ecrchs.net",
+                    "category": ["ECR"]
+                }
+            }
         }
         
     ]
