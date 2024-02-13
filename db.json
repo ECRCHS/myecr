@@ -1275,6 +1275,23 @@
             }
         },
         {
+            "title": "Student Store",
+            "icon": "",
+            "priority": true,
+            "roles": {
+                "STU": {
+                    "description": "ECR_Student_Store",
+                    "url": "https://iq.ecrchs.net/",
+                    "category": ["ECR"]
+                },
+                "PAR": {
+                    "description": "ECR_Student_Store",
+                    "url": "https://iq.ecrchs.net/",
+                    "category": ["ECR"]
+                }
+            }
+        },
+        {
             "title": "JSTOR",
             "icon": "./icon/jstor_icon.png",
             "priority": true,
