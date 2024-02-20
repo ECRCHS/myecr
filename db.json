@@ -1282,7 +1282,7 @@
                 "STU": {
                     "description": "New Online Student Store",
                     "url": "https://store.ecrchs.net/",
-                    "category": ["ECR, FEA"]
+                    "category": ["ECR", "FEA"]
                 },
                 "PAR": {
                     "description": "New Online Student Store",
