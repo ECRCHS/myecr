@@ -1275,19 +1275,19 @@
             }
         },
         {
-            "title": "Student Store",
+            "title": "Online Student Store",
             "icon": "",
             "priority": true,
             "roles": {
                 "STU": {
-                    "description": "ECR_Student_Store",
-                    "url": "https://iq.ecrchs.net/",
-                    "category": ["ECR"]
+                    "description": "New Online Student Store",
+                    "url": "https://store.ecrchs.net/",
+                    "category": ["OFF, FEA"]
                 },
                 "PAR": {
-                    "description": "ECR_Student_Store",
-                    "url": "https://iq.ecrchs.net/",
-                    "category": ["ECR"]
+                    "description": "New Online Student Store",
+                    "url": "https://store.ecrchs.net/",
+                    "category": ["OFF, FEA"]
                 }
             }
         },
