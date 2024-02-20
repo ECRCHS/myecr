@@ -1276,7 +1276,7 @@
         },
         {
             "title": "Online Student Store",
-            "icon": "",
+            "icon": "./icon/BiColorBearSeal.png",
             "priority": true,
             "roles": {
                 "STU": {
