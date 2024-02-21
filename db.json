@@ -1281,7 +1281,7 @@
             "roles": {
                 "STU": {
                     "description": "New Online Student Store",
-                    "url": "https://store.ecrchs.net/",
+                    "url": "https://store.ecrchs.net/web/login",
                     "category": ["ECR", "FEA"]
                 },
                 "PAR": {
