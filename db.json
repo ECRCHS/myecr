@@ -498,19 +498,29 @@
             }
         },
         {
-            "title": "Technology HelpDesk",
+            "title": "HelpDesk Tickets",
             "icon": "./icon/helpdesk-icon-2.png",
             "priority": true,
             "roles": {
                 "TCH": {
-                    "description": "Email techsupport@ecrchs.net to create a ticket",
-                    "url": "mailto:techsupport@ecrchs.net",
+                    "description": "Create Help Ticket",
+                    "url": "https://iq.ecrchs.net/my/helpdesk_tickets",
                     "category": ["ECR"]
                 },
                 "STF": {
-                    "description": "Email techsupport@ecrchs.net to create a ticket",
-                    "url": "mailto:techsupport@ecrchs.net",
+                    "description": "Create Help Ticket",
+                    "url": "https://iq.ecrchs.net/my/helpdesk_tickets",
                     "category": ["ECR"]
+                },
+                "STU": {
+                    "description": "Create Help Ticket",
+                    "url": "https://iq.ecrchs.net/my/helpdesk_tickets",
+                    "category": ["ECR"]
+                },
+                "PAR": {
+                    "description": "Create Help Ticket",
+                    "url": "https://iq.ecrchs.net/my/helpdesk_tickets",
+                    "category": ["PAR"]
                 }
             }
         },
@@ -1271,23 +1281,6 @@
                     "description": "ECR_IQ_ERP",
                     "url": "https://iq.ecrchs.net/my/helpdesk_tickets",
                     "category": ["ECR"]
-                }
-            }
-        },
-        {
-            "title": "Helpdesk Portal",
-            "icon": "./icon/ECR-ERP-Logo.png",
-            "priority": true,
-            "roles": {
-                "STU": {
-                    "description": "ECR_IQ_ERP",
-                    "url": "https://iq.ecrchs.net/my/helpdesk_tickets",
-                    "category": ["ECR"]
-                },
-                "PAR": {
-                    "description": "ECR_IQ_ERP",
-                    "url": "https://iq.ecrchs.net/my/helpdesk_tickets",
-                    "category": ["PAR"]
                 }
             }
         },
