@@ -1264,13 +1264,30 @@
             "roles": {
                 "TCH": {
                     "description": "ECR_IQ_ERP",
-                    "url": "https://iq.ecrchs.net/web",
+                    "url": "https://iq.ecrchs.net/my/helpdesk_tickets",
                     "category": ["ECR"]
                 },
                 "STF": {
                     "description": "ECR_IQ_ERP",
-                    "url": "https://iq.ecrchs.net/web",
+                    "url": "https://iq.ecrchs.net/my/helpdesk_tickets",
                     "category": ["ECR"]
+                }
+            }
+        },
+        {
+            "title": "Helpdesk Portal",
+            "icon": "./icon/ECR-ERP-Logo.png",
+            "priority": true,
+            "roles": {
+                "STU": {
+                    "description": "ECR_IQ_ERP",
+                    "url": "https://iq.ecrchs.net/my/helpdesk_tickets",
+                    "category": ["ECR"]
+                },
+                "PAR": {
+                    "description": "ECR_IQ_ERP",
+                    "url": "https://iq.ecrchs.net/my/helpdesk_tickets",
+                    "category": ["PAR"]
                 }
             }
         },
