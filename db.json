@@ -1332,6 +1332,23 @@
                     "category": ["INS"]
                 }
             }
+        },
+        {
+            "title": "UC Doorways",
+            "icon": "./icon/UC_Doorways.png",
+            "priority": true,
+            "roles": {
+                "TCH": {
+                    "description": "UC Doorways",
+                    "url": "https://hs-articulation.ucop.edu/agcourselist/institution/1031",
+                    "category": ["INS"]
+                },
+                "STF": {
+                    "description": "UC Doorways",
+                    "url": "https://hs-articulation.ucop.edu/agcourselist/institution/1031",
+                    "category": ["INS"]
+                }
+            }
         }
         
     ]
