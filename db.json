@@ -269,6 +269,11 @@
                     "description": "California Assessment of Student Performance and Progress, Smarter Balanced Assessment",
                     "url": "https://www.caaspp.org/",
                     "category": ["INS"]
+                },
+                "STF": {
+                    "description": "California Assessment of Student Performance and Progress, Smarter Balanced Assessment",
+                    "url": "https://www.caaspp.org/",
+                    "category": ["INS"]
                 }
             }
         },
@@ -337,6 +342,11 @@
                     "category": ["INS"]
                 },
                 "TCH": {
+                    "description": "",
+                    "url": "https://world.cyberhigh.org/",
+                    "category": ["INS"]
+                },
+                "STF": {
                     "description": "",
                     "url": "https://world.cyberhigh.org/",
                     "category": ["INS"]
@@ -811,6 +821,11 @@
                     "category": ["INS"]
                 },
                 "TCH": {
+                    "description": "",
+                    "url": "https://teach.mapnwea.org",
+                    "category": ["INS"]
+                },
+                "STF": {
                     "description": "",
                     "url": "https://teach.mapnwea.org",
                     "category": ["INS"]
