@@ -1349,6 +1349,28 @@
                     "category": ["INS"]
                 }
             }
+        },
+        {
+            "title": "AP Bluebook",
+            "icon": "./icon/Bluebook.jpeg",
+            "priority": true,
+            "roles": {
+                "TCH": {
+                    "description": "AP Bluebook",
+                    "url": "https://bluebook.app.collegeboard.org/",
+                    "category": ["INS"]
+                },
+                "STU": {
+                    "description": "AP Bluebook",
+                    "url": "https://bluebook.app.collegeboard.org/",
+                    "category": ["INS"]
+                },
+                "STF": {
+                    "description": "AP Bluebook",
+                    "url": "https://bluebook.app.collegeboard.org/",
+                    "category": ["INS"]
+                }
+            }
         }
         
     ]
