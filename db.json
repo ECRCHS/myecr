@@ -730,11 +730,7 @@
             "icon": "./icon/MyMealTime.webp",
             "priority": true,
             "roles": {
-                "PAR": {
-                    "description": "Complete your free/reduced application or deposit funds in your meal account.",
-                    "url": "https://www.mymealtime.com/",
-                    "category": ["PAR"]
-                }
+                
             }
         },
         {
@@ -1192,12 +1188,22 @@
             "roles": {
                 "STU": {
                     "description": "",
-                    "url": "https://www.ecrchs.net/apps/pages/index.jsp?uREC_ID=369938&type=d&termREC_ID=&pREC_ID=756992",
+                    "url": "https://www.ecrchs.net/students2/cafeteria",
                     "category": ["OFF"]
                 },
                 "PAR": {
                     "description": "",
-                    "url": "https://www.ecrchs.net/apps/pages/index.jsp?uREC_ID=369938&type=d&termREC_ID=&pREC_ID=756992",
+                    "url": "https://www.ecrchs.net/students2/cafeteria",
+                    "category": ["OFF"]
+                },
+                "STF": {
+                    "description": "",
+                    "url": "https://www.ecrchs.net/students2/cafeteria",
+                    "category": ["OFF"]
+                },
+                "TCH": {
+                    "description": "",
+                    "url": "https://www.ecrchs.net/students2/cafeteria",
                     "category": ["OFF"]
                 }
             }
