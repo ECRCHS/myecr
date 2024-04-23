@@ -1171,12 +1171,12 @@
             "roles": {
                 "STU": {
                     "description": "",
-                    "url": "https://www.ecrchs.net/apps/pages/index.jsp?uREC_ID=369931&type=d",
+                    "url": "https://www.ecrchs.net/students2/attendance",
                     "category": ["OFF"]
                 },
                 "PAR": {
                     "description": "",
-                    "url": "https://www.ecrchs.net/apps/pages/index.jsp?uREC_ID=369931&type=d",
+                    "url": "https://www.ecrchs.net/students2/attendance",
                     "category": ["OFF"]
                 }
             }
@@ -1215,12 +1215,12 @@
             "roles": {
                 "STU": {
                     "description": "",
-                    "url": "https://www.ecrchs.net/apps/pages/index.jsp?uREC_ID=369999&type=d",
+                    "url": "https://www.ecrchs.net/academics/college-career-center",
                     "category": ["OFF"]
                 },
                 "PAR": {
                     "description": "",
-                    "url": "https://www.ecrchs.net/apps/pages/index.jsp?uREC_ID=369999&type=d",
+                    "url": "https://www.ecrchs.net/academics/college-career-center",
                     "category": ["OFF"]
                 }
             }
@@ -1232,12 +1232,12 @@
             "roles": {
                 "STU": {
                     "description": "",
-                    "url": "https://www.ecrchs.net/apps/pages/index.jsp?uREC_ID=370000&type=d",
+                    "url": "https://www.ecrchs.net/academics/counseling-office",
                     "category": ["OFF"]
                 },
                 "PAR": {
                     "description": "",
-                    "url": "https://www.ecrchs.net/apps/pages/index.jsp?uREC_ID=370000&type=d",
+                    "url": "https://www.ecrchs.net/academics/counseling-office",
                     "category": ["OFF"]
                 }
             }
@@ -1249,12 +1249,12 @@
             "roles": {
                 "STU": {
                     "description": "",
-                    "url": "https://www.ecrchs.net/apps/pages/index.jsp?uREC_ID=370002&type=d",
+                    "url": "https://www.ecrchs.net/health",
                     "category": ["OFF"]
                 },
                 "PAR": {
                     "description": "",
-                    "url": "https://www.ecrchs.net/apps/pages/index.jsp?uREC_ID=370002&type=d",
+                    "url": "https://www.ecrchs.net/health",
                     "category": ["OFF"]
                 }
             }
