@@ -1377,6 +1377,23 @@
                     "category": ["INS"]
                 }
             }
+        },
+        {
+            "title": "Marketing/Communications Request",
+            "icon": "./icon/BiColorBearSeal.png",
+            "priority": true,
+            "roles": {
+                "STF": {
+                    "description": "ECR Marketing/Comms Publication Request",
+                    "url": "https://forms.office.com/r/QVqWz1LVnq",
+                    "category": ["FRM"]
+                },
+                "TCH": {
+                    "description": "ECR Marketing/Comms Publication Request",
+                    "url": "https://forms.office.com/r/QVqWz1LVnq",
+                    "category": ["FRM"]
+                }
+            }
         }
         
     ]
