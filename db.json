@@ -1170,6 +1170,11 @@
                     "description": "Complete the ECRCHS Laptop Contract and Purchase our Optional Protection Plan",
                     "url": "https://portal.ecrchs.net/",
                     "category": ["PAR"]
+                },
+                "STU": {
+                    "description": "Complete the ECRCHS Laptop Contract and Purchase our Optional Protection Plan",
+                    "url": "https://portal.ecrchs.net/",
+                    "category": ["FEA"]
                 }
             }
         },
