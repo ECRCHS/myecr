@@ -76,7 +76,7 @@ export default function RoleSelector({ roles, showRoleSelector, setShowRoleSelec
                                 {items}
                                 {
                                     !session && <div className='border-0 border-t-2 border-black py-4'>
-                                        <h1 className="text-xl mb-4 font-bold">EMPLOYEES, SIGN IN HERE</h1>
+                                        <h1 className="text-xl mb-4 font-bold">Staff & Students, SIGN IN HERE</h1>
 
                                         <button
                                             // className="px-4 py-2 font-semibold text-md bg-blue-800 text-white rounded-full shadow-sm hover:shadow-lg hover:font-bold hover:underline hover:underline-offset-2 w-60"
