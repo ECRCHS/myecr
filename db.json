@@ -4,7 +4,7 @@
             "id": 4,
             "oid": "STU",
             "title": "Student",
-            "signin": false,
+            "signin": true,
             "emailRegex": "^.+@ecrchs.org$"
         },
         {
