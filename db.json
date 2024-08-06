@@ -461,12 +461,12 @@
             "roles": {
                 "TCH": {
                     "description": "",
-                    "url": "https://docs.google.com/forms/d/e/1FAIpQLSd7l9Om0FQFdldc4CvmthHXZKjzq3pmuG2roWTa5Wl-QawPlQ/viewform",
+                    "url": "https://www.canva.com/design/DAGMprhmWlQ/syI_1xN7univr1jP66XLYg/view",
                     "category": ["FRM"]
                 },
                 "STF": {
                     "description": "",
-                    "url": "https://docs.google.com/forms/d/e/1FAIpQLSd7l9Om0FQFdldc4CvmthHXZKjzq3pmuG2roWTa5Wl-QawPlQ/viewform",
+                    "url": "https://www.canva.com/design/DAGMprhmWlQ/syI_1xN7univr1jP66XLYg/view",
                     "category": ["FRM"]
                 }
             }
@@ -475,16 +475,6 @@
             "title": "Dean's Office Referral Form",
             "priority": true,
             "roles": {
-                "TCH": {
-                    "description": "",
-                    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdzciG_4h3cpMeW4y3JBOAFXPD98wuhetl2s8EBLy8VAv1sSA/viewform",
-                    "category": ["FRM"]
-                },
-                "STF": {
-                    "description": "",
-                    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdzciG_4h3cpMeW4y3JBOAFXPD98wuhetl2s8EBLy8VAv1sSA/viewform",
-                    "category": ["FRM"]
-                }
             }
         },
         {
