@@ -1393,6 +1393,28 @@
                     "category": ["FRM"]
                 }
             }
+        },
+        {
+            "title": "Varsity Tutors",
+            "icon": "./icon/VarsityTutors.png",
+            "priority": true,
+            "roles": {
+                "TCH": {
+                    "description": "Varsity Tutor",
+                    "url": "https://www.varsitytutors.com/login",
+                    "category": ["INS"]
+                },
+                "STU": {
+                    "description": "Varsity Tutor",
+                    "url": "https://clever.com/oauth/instant-login?client_id=7a2cb50068ae07583e5a&district_id=5addf734bdeaa10001dcaf83",
+                    "category": ["INS"]
+                },
+                "STF": {
+                    "description": "Varsity Tutor",
+                    "url": "https://www.varsitytutors.com/login",
+                    "category": ["INS"]
+                }
+            }
         }
         
     ]
