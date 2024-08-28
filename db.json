@@ -709,17 +709,17 @@
             "roles": {
                 "STU": {
                     "description": "",
-                    "url": "https://web.microsoftstream.com/",
+                    "url": "https://www.microsoft365.com/launch/stream",
                     "category": ["PRO"]
                 },
                 "TCH": {
                     "description": "",
-                    "url": "https://web.microsoftstream.com/",
+                    "url": "https://www.microsoft365.com/launch/stream",
                     "category": ["PRO"]
                 },
                 "STF": {
                     "description": "",
-                    "url": "https://web.microsoftstream.com/",
+                    "url": "https://www.microsoft365.com/launch/stream",
                     "category": ["PRO"]
                 }
             }
