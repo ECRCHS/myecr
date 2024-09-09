@@ -1415,6 +1415,28 @@
                     "category": ["INS"]
                 }
             }
+        },
+        {
+            "title": "Digital Theatre +",
+            "icon": "./icon/digital_theatre.webp",
+            "priority": true,
+            "roles": {
+                "TCH": {
+                    "description": "Digital Theatre +",
+                    "url": "https://auth.digitaltheatreplus.com/sso/saml2/0oajwtr790YlCdkoi4x7",
+                    "category": ["INS"]
+                },
+                "STU": {
+                    "description": "Digital Theatre +",
+                    "url": "https://auth.digitaltheatreplus.com/sso/saml2/0oajwtr790YlCdkoi4x7",
+                    "category": ["INS"]
+                },
+                "STF": {
+                    "description": "Digital Theatre +",
+                    "url": "https://auth.digitaltheatreplus.com/sso/saml2/0oajwtr790YlCdkoi4x7n",
+                    "category": ["INS"]
+                }
+            }
         }
         
     ]
