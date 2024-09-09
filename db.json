@@ -1433,7 +1433,7 @@
                 },
                 "STF": {
                     "description": "Digital Theatre +",
-                    "url": "https://auth.digitaltheatreplus.com/sso/saml2/0oajwtr790YlCdkoi4x7n",
+                    "url": "https://auth.digitaltheatreplus.com/",
                     "category": ["INS"]
                 }
             }
