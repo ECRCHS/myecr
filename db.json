@@ -1423,12 +1423,12 @@
             "roles": {
                 "TCH": {
                     "description": "Digital Theatre +",
-                    "url": "https://auth.digitaltheatreplus.com/sso/saml2/0oajwtr790YlCdkoi4x7",
+                    "url": "https://auth.digitaltheatreplus.com/",
                     "category": ["INS"]
                 },
                 "STU": {
                     "description": "Digital Theatre +",
-                    "url": "https://auth.digitaltheatreplus.com/sso/saml2/0oajwtr790YlCdkoi4x7",
+                    "url": "https://auth.digitaltheatreplus.com/",
                     "category": ["INS"]
                 },
                 "STF": {
