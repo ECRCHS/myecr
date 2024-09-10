@@ -1331,6 +1331,11 @@
                     "url": "https://www.jstor.org/login/oauth/microsoft?workflow_name=login&destination=https%3A%2F%2Fwww.jstor.org%2F&target=aHR0cHM6Ly93d3cuanN0b3Iub3Jn",
                     "category": ["INS"]
                 },
+                "STF": {
+                    "description": "JSTOR",
+                    "url": "https://www.jstor.org/login/oauth/microsoft?workflow_name=login&destination=https%3A%2F%2Fwww.jstor.org%2F&target=aHR0cHM6Ly93d3cuanN0b3Iub3Jn",
+                    "category": ["INS"]
+                },
                 "STU": {
                     "description": "JSTOR",
                     "url": "https://www.jstor.org/login/oauth/microsoft?workflow_name=login&destination=https%3A%2F%2Fwww.jstor.org%2F&target=aHR0cHM6Ly93d3cuanN0b3Iub3Jn",
