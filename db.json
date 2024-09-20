@@ -1442,6 +1442,28 @@
                     "category": ["INS"]
                 }
             }
+        },
+        {
+            "title": "DCFS Mandated Reporting",
+            "icon": "./icon/dcfs_mandated_reporting.png",
+            "priority": true,
+            "roles": {
+                "TCH": {
+                    "description": "DCFS Mandated Reporting",
+                    "url": "https://mandreptla.org/cars.web/Account/Login?ReturnUrl=%2Fcars.web%2FAuth%2FCARES",
+                    "category": ["FRM"]
+                },
+                "SUB": {
+                    "description": "DCFS Mandated Reporting",
+                    "url": "https://mandreptla.org/cars.web/Account/Login?ReturnUrl=%2Fcars.web%2FAuth%2FCARES",
+                    "category": ["FRM"]
+                },
+                "STF": {
+                    "description": "DCFS Mandated Reporting",
+                    "url": "https://mandreptla.org/cars.web/Account/Login?ReturnUrl=%2Fcars.web%2FAuth%2FCARES",
+                    "category": ["FRM"]
+                }
+            }
         }
         
     ]
