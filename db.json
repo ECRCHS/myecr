@@ -1464,6 +1464,28 @@
                     "category": ["FRM"]
                 }
             }
+        },
+        {
+            "title": "Pending Detention List",
+            "icon": "",
+            "priority": true,
+            "roles": {
+                "TCH": {
+                    "description": "Pending Detention List",
+                    "url": "https://docs.google.com/spreadsheets/d/1ZyrB0WB5qnMKC0jWcVug1i3VAkz8Kobu9aXbMLgBYwU/edit?usp=sharing",
+                    "category": ["FEA", "OFF"]
+                },
+                "STU": {
+                    "description": "Pending Detention List",
+                    "url": "https://docs.google.com/spreadsheets/d/1ZyrB0WB5qnMKC0jWcVug1i3VAkz8Kobu9aXbMLgBYwU/edit?usp=sharing",
+                    "category": ["FEA", "OFF"]
+                },
+                "STF": {
+                    "description": "Pending Detention List",
+                    "url": "https://docs.google.com/spreadsheets/d/1ZyrB0WB5qnMKC0jWcVug1i3VAkz8Kobu9aXbMLgBYwU/edit?usp=sharing",
+                    "category": ["FEA", "OFF"]
+                }
+            }
         }
         
     ]
