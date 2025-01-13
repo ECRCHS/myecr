@@ -779,12 +779,12 @@
                 "TCH": {
                     "description": "",
                     "url": "https://myapps.microsoft.com/signin/2787618c-b957-4077-a6be-3d77b0817d41?tenantId=3103011a-6832-4e4a-be24-2aac2968b4dc",
-                    "category": ["ECR"]
+                    "category": []
                 },
                 "STF": {
                     "description": "",
                     "url": "https://myapps.microsoft.com/signin/2787618c-b957-4077-a6be-3d77b0817d41?tenantId=3103011a-6832-4e4a-be24-2aac2968b4dc",
-                    "category": ["ECR"]
+                    "category": []
                 }
             }
         },
