@@ -496,12 +496,12 @@
             "roles": {
                 "TCH": {
                     "description": "Access your phone on the go; make and receive phone calls from anywhere",
-                    "url": "https://login.microsoftonline.com/3103011a-6832-4e4a-be24-2aac2968b4dc/saml2",
+                    "url": "https://authentication.logmeininc.com/saml/sp",
                     "category": ["ECR"]
                 },
                 "STF": {
                     "description": "Access your phone on the go; make and receive phone calls from anywhere",
-                    "url": "https://login.microsoftonline.com/3103011a-6832-4e4a-be24-2aac2968b4dc/saml2",
+                    "url": "https://authentication.logmeininc.com/saml/sp",
                     "category": ["ECR"]
                 }
             }
