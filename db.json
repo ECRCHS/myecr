@@ -1299,12 +1299,12 @@
             "roles": {
                 "TCH": {
                     "description": "ECR_IQ_ERP",
-                    "url": "https://login.microsoftonline.com/3103011a-6832-4e4a-be24-2aac2968b4dc/oauth2/v2.0/authorize?response_type=code&client_id=6f3741e9-1cb9-425f-89b1-70abbeaecebb&redirect_uri=https%3A%2F%2Fiq.ecrchs.net%2Fmicrosoft_sso_integration%2Fmicrosoft&scope=User.ReadWrite.All+User.ReadWrite+User.ReadBasic.All+User.Read.All&state=%7B%22d%22%3A+%22ce-ecr-16%22%2C+%22p%22%3A+4%2C+%22r%22%3A+%22https%253A%252F%252Fiq.ecrchs.net%252Fweb%22%7D",
+                    "url": "https://login.microsoftonline.com/3103011a-6832-4e4a-be24-2aac2968b4dc/oauth2/v2.0/authorize?response_type=code&client_id=6f3741e9-1cb9-425f-89b1-70abbeaecebb&redirect_uri=https%3A%2F%2Fiq.ecrchs.net%2Fmicrosoft_sso_integration%2Fmicrosoft&scope=User.ReadWrite.All+User.ReadWrite+User.ReadBasic.All+User.Read.All&state=%7B%22d%22%3A+%22ce_ecr_16%22%2C+%22p%22%3A+4%2C+%22r%22%3A+%22https%253A%252F%252Fiq.ecrchs.net%252Fweb%22%7D",
                     "category": ["ECR", "FEA"]
                 },
                 "STF": {
                     "description": "ECR_IQ_ERP",
-                    "url": "https://login.microsoftonline.com/3103011a-6832-4e4a-be24-2aac2968b4dc/oauth2/v2.0/authorize?response_type=code&client_id=6f3741e9-1cb9-425f-89b1-70abbeaecebb&redirect_uri=https%3A%2F%2Fiq.ecrchs.net%2Fmicrosoft_sso_integration%2Fmicrosoft&scope=User.ReadWrite.All+User.ReadWrite+User.ReadBasic.All+User.Read.All&state=%7B%22d%22%3A+%22ce-ecr-16%22%2C+%22p%22%3A+4%2C+%22r%22%3A+%22https%253A%252F%252Fiq.ecrchs.net%252Fweb%22%7D",
+                    "url": "https://login.microsoftonline.com/3103011a-6832-4e4a-be24-2aac2968b4dc/oauth2/v2.0/authorize?response_type=code&client_id=6f3741e9-1cb9-425f-89b1-70abbeaecebb&redirect_uri=https%3A%2F%2Fiq.ecrchs.net%2Fmicrosoft_sso_integration%2Fmicrosoft&scope=User.ReadWrite.All+User.ReadWrite+User.ReadBasic.All+User.Read.All&state=%7B%22d%22%3A+%22ce_ecr_16%22%2C+%22p%22%3A+4%2C+%22r%22%3A+%22https%253A%252F%252Fiq.ecrchs.net%252Fweb%22%7D",
                     "category": ["ECR", "FEA"]
                 }
             }
