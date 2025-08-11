@@ -1500,12 +1500,12 @@
                 "TCH": {
                     "description": "Magic School",
                     "url": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=610e1193-597f-46bb-93df-80f1734375be&redirect_to=https%3A%2F%2Fapp.magicschool.ai%2Fapi%2Fauth%2Fconfirm%3Flocale%3Den-us%26next%3D%252F%253F_gl%253D1%2A1ehcfu0%2A_gcl_au%2AMTA4MzU0NjUyLjE3NTQ5NTYzMTc.&redirect_uri=https%3A%2F%2Fauth.magicschool.ai%2Fauth%2Fv1%2Fcallback&response_type=code&scope=openid+email&state=eyJhbGciOiJIUzI1NiIsImtpZCI6IlE3bC9iaWhiZml5OEJnakgiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NTQ5NTY2MzcsInNpdGVfdXJsIjoiaHR0cHM6Ly9hcHAubWFnaWNzY2hvb2wuYWkiLCJpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMCIsImZ1bmN0aW9uX2hvb2tzIjpudWxsLCJwcm92aWRlciI6ImF6dXJlIiwicmVmZXJyZXIiOiJodHRwczovL2FwcC5tYWdpY3NjaG9vbC5haS9hcGkvYXV0aC9jb25maXJtP2xvY2FsZT1lbi11c1x1MDAyNm5leHQ9JTJGJTNGX2dsJTNEMSoxZWhjZnUwKl9nY2xfYXUqTVRBNE16VTBOalV5TGpFM05UUTVOVFl6TVRjLiIsImZsb3dfc3RhdGVfaWQiOiI4YmQzMTg5ZS1kNzYzLTQxZWUtYjI3YS0yZjVkYjFkYTkyY2IifQ.-86nUTz3Vdm7Kjyc6rWlSaHUmS-13JGusLhE0WqJ3Cs&sso_reload=true",
-                    "category": ["FEA","PRO"]
+                    "category": ["FEA","INS"]
                 },
                 "STF": {
                     "description": "Magic School",
                     "url": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=610e1193-597f-46bb-93df-80f1734375be&redirect_to=https%3A%2F%2Fapp.magicschool.ai%2Fapi%2Fauth%2Fconfirm%3Flocale%3Den-us%26next%3D%252F%253F_gl%253D1%2A1ehcfu0%2A_gcl_au%2AMTA4MzU0NjUyLjE3NTQ5NTYzMTc.&redirect_uri=https%3A%2F%2Fauth.magicschool.ai%2Fauth%2Fv1%2Fcallback&response_type=code&scope=openid+email&state=eyJhbGciOiJIUzI1NiIsImtpZCI6IlE3bC9iaWhiZml5OEJnakgiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NTQ5NTY2MzcsInNpdGVfdXJsIjoiaHR0cHM6Ly9hcHAubWFnaWNzY2hvb2wuYWkiLCJpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMCIsImZ1bmN0aW9uX2hvb2tzIjpudWxsLCJwcm92aWRlciI6ImF6dXJlIiwicmVmZXJyZXIiOiJodHRwczovL2FwcC5tYWdpY3NjaG9vbC5haS9hcGkvYXV0aC9jb25maXJtP2xvY2FsZT1lbi11c1x1MDAyNm5leHQ9JTJGJTNGX2dsJTNEMSoxZWhjZnUwKl9nY2xfYXUqTVRBNE16VTBOalV5TGpFM05UUTVOVFl6TVRjLiIsImZsb3dfc3RhdGVfaWQiOiI4YmQzMTg5ZS1kNzYzLTQxZWUtYjI3YS0yZjVkYjFkYTkyY2IifQ.-86nUTz3Vdm7Kjyc6rWlSaHUmS-13JGusLhE0WqJ3Cs&sso_reload=true",
-                    "category": ["PRO"]
+                    "category": ["INS"]
                 }
             }
         }
