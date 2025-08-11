@@ -1492,6 +1492,22 @@
                 }
             }
         }
-        
+        {
+            "title": "Magic School",
+            "icon": "./icon/magicSchool.png",
+            "priority": true,
+            "roles": {
+                "TCH": {
+                    "description": "Magic School",
+                    "url": "https://app.magicschool.ai/auth/signin?next=/tools",
+                    "category": ["FEA","PRO"]
+                },
+                "STF": {
+                    "description": "Magic School",
+                    "url": "https://app.magicschool.ai/auth/signin?next=/tools",
+                    "category": ["PRO"]
+                }
+            }
+        }
     ]
 }
