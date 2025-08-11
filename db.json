@@ -1007,12 +1007,12 @@
         },
         {
             "title": "* Digital I.D.",
-            "icon": "./icon/Digital_ID_icon.png",
+            "icon": "./icon/Digital_ID.png",
             "priority": true,
             "roles": {
                 "STU": {
                     "description": "Royal Pass Digital ID",
-                    "url": "https://myecrchsid.360isuite.com/login",
+                    "url": "https://students.360isuite.com/",
                     "category": ["FEA", "ECR"]
                 }
             }
