@@ -1510,23 +1510,45 @@
             }
         },
         {
-            "title": "Accelerate",
+            "title": "ISP Accelerate",
             "icon": "./icon/accelerate.png",
             "priority": true,
             "roles": {
                 "TCH": {
-                    "description": "Accelerate Education",
+                    "description": "Accelerate Education for ECR ISP",
                     "url": "https://accelerate-ecrchs.vschool.com/",
                     "category": ["INS"]
                 },
                 "STF": {
-                    "description": "Accelerate Education",
+                    "description": "Accelerate Education for ECR ISP",
                     "url": "https://accelerate-ecrchs.vschool.com/",
                     "category": ["INS"]
                 },
                 "STU": {
-                    "description": "Accelerate Education",
+                    "description": "Accelerate Education for ECR ISP",
                     "url": "https://accelerate-ecrchs.vschool.com/",
+                    "category": ["INS"]
+                }
+            }
+        },
+        {
+            "title": "Flex Accelerate",
+            "icon": "./icon/accelerate.png",
+            "priority": true,
+            "roles": {
+                "TCH": {
+                    "description": "Accelerate Education for ECR ISP",
+                    "url": "https:accelerate-ecrcflex.vschool.com",
+                    "category": ["INS"]
+                },
+                "STF": {
+                    "description": "Accelerate Education for ECR Flex",
+                    "url": "https:accelerate-ecrcflex.vschool.com",
+                    "category": ["INS"]
+                },
+                "STU": {
+                    "description": "Accelerate Education for ECR Flex",
+                    "url": "https:accelerate-ecrcflex.vschool.com",
                     "category": ["INS"]
                 }
             }
