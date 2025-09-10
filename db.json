@@ -1511,7 +1511,7 @@
         },
         {
             "title": "Accelerate",
-            "icon": "",
+            "icon": "./icon/accelerate.png",
             "priority": true,
             "roles": {
                 "TCH": {
