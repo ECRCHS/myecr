@@ -1508,6 +1508,28 @@
                     "category": ["INS"]
                 }
             }
+        },
+        {
+            "title": "Accelerate",
+            "icon": "",
+            "priority": true,
+            "roles": {
+                "TCH": {
+                    "description": "Accelerate Education",
+                    "url": "https://accelerate-ecrchs.vschool.com/",
+                    "category": ["INS"]
+                },
+                "STF": {
+                    "description": "Accelerate Education",
+                    "url": "https://accelerate-ecrchs.vschool.com/",
+                    "category": ["INS"]
+                },
+                "STU": {
+                    "description": "Accelerate Education",
+                    "url": "https://accelerate-ecrchs.vschool.com/",
+                    "category": ["INS"]
+                }
+            }
         }
     ]
 }
