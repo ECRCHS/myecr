@@ -594,7 +594,16 @@
             "icon": "./icon/kellyeducation_fullcolor_padding2.svg",
             "priority": true,
             "roles": {
-                
+                "TCH": {
+                    "description": "",
+                    "url": "https://login.frontlineeducation.com/login?signin=7122c07d43d83522456a9095c340c42c&clientId=superSuit#/login",
+                    "category": ["FEA", "ECR"]
+                },
+                "STF": {
+                    "description": "",
+                    "url": "https://login.frontlineeducation.com/login?signin=7122c07d43d83522456a9095c340c42c&clientId=superSuit#/login",
+                    "category": ["FEA", "ECR"]
+                }
             }
         },
         {
